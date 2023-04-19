@@ -76,3 +76,6 @@ weight_g[weight_g > 50 & weight_g <30]
 height <- c(2,4,4,NA,6)
 mean(height)
 mean(height, na.rm= TRUE)
+
+git config --global user.email "luiz-eduardo.mateus-brandao@medsci.uu.se"
+git config --global user.name "Luiz Eduardo M Brandao"
